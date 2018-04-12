@@ -36,3 +36,9 @@ Updated title to Welcome to me | Kevin Shimp
 -Awards
 	-h2: What makes me proud...
 	-content: Awards:  
+	
+	
+	
+	added and activated a new theme  WP Bootstrap Starter/
+	- added the following pages to the me wp site - welcome to me (nested the following pages below this one) - home - copied content from header in to this page - about, experience, education, skills, interests, awards, contact. copied the content for each of the pages from the static site - "
+- added to each page to allow for easy validation of successful API calls - no content added to the "welcome to me" page - used as parent for API calls
